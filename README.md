@@ -42,6 +42,34 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+## How to Run
+
+1. Clone the repository by copying the command below and pasting it into your terminal:
+
+    ```bash
+    git clone https://github.com/yourusername/Word2Vec-Project.git
+    ```
+
+2. Navigate into the project directory:
+
+    ```bash
+    cd Word2Vec-Project
+    ```
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Open the Jupyter Notebook:
+
+    ```bash
+    jupyter notebook WORD2VECTOR.ipynb
+    ```
+
+5. Follow the instructions in the notebook to execute the code cells step by step.
+
 
 
 
